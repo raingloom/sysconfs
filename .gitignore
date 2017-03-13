@@ -1,0 +1,8 @@
+#ignore all
+*
+#contain self
+!.gitignore
+#start adding
+!/etc
+!/etc/systemd
+!/etc/systemd/logind.conf
