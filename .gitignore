@@ -6,3 +6,4 @@
 !/etc
 !/etc/systemd
 !/etc/systemd/logind.conf
+!/etc/systemd/journald.conf
