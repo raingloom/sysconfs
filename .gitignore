@@ -3,7 +3,9 @@
 #contain self
 !.gitignore
 #start adding
-!/etc
-!/etc/systemd
+!/etc/
+!/etc/systemd/
 !/etc/systemd/logind.conf
 !/etc/systemd/journald.conf
+!/etc/luarocks/
+!/etc/luarocks/*
