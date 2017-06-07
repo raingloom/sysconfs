@@ -7,5 +7,7 @@
 !/etc/systemd/
 !/etc/systemd/logind.conf
 !/etc/systemd/journald.conf
+!/etc/systemd/network/
+!/etc/systemd/network/*
 !/etc/luarocks/
 !/etc/luarocks/*
